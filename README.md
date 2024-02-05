@@ -24,3 +24,6 @@
   
 </div>
 
+ ![snake gif](https://github.com/Carloshpjr/Carloshpjr/blob/output/github-contribution-grid-snake.gif)
+
+[![readme](https://gthub-readme-stats.vercel.app/api/pin/?username=Carloshpjr&repo=Carloshpjr&theme=react)](htps://github.com/Carloshpjr/Carloshpjr)
