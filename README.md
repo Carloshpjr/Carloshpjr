@@ -1,4 +1,13 @@
-### Faaala pessoal, Carlos Jr aqui!
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Sejam+bem+vindos;" />
+</h1>
+
+<div  align="center" >
+- 🔭 Atualmente estou trabalhando como freelancer ...
+  <br>
+- 🌱 Estou estudando Sqlserver, Python, Powerbi, Estatistica, Inglês ...
+</div>
+
 
 <div>
   
@@ -23,7 +32,3 @@
    <a href="https://www.linkedin.com/in/carlos-henrique-0266481a1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-
- ![snake gif](https://github.com/Carloshpjr/Carloshpjr/blob/output/github-contribution-grid-snake.gif)
-
-[![readme](https://gthub-readme-stats.vercel.app/api/pin/?username=Carloshpjr&repo=Carloshpjr&theme=react)](htps://github.com/Carloshpjr/Carloshpjr)
