@@ -10,10 +10,9 @@
 
 <div>
   
-  <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=Carloshpjr&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img  height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carloshpjr&layout=compact&langs_count=16&theme=radical"/>
-</div>
-<br>
+  <img  height="150em" src="https://github-readme-stats.vercel.app/api?username=Carloshpjr&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img  height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carloshpjr&layout=compact&langs_count=16&theme=radical"/>
+</div><br>
 
 <div style="display: inline_block"><br>
   <img align="left" height="180" alt="coding-time" src="https://media.discordapp.net/attachments/1178723555098251297/1203369330679742576/glare-data-analyst-infographics-and-statistics-1.gif?ex=65d0d805&is=65be6305&hm=3702b892ac5688ddc7604a2ca24812628be7b956e67ddb9e5aca9e89c0dda632&=">
