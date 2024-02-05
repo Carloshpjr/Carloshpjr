@@ -19,7 +19,10 @@
 
 <div style="display: inline_block"><br>
   <img align="left" height="180" alt="coding-time" src="https://media.discordapp.net/attachments/1178723555098251297/1203369330679742576/glare-data-analyst-infographics-and-statistics-1.gif?ex=65d0d805&is=65be6305&hm=3702b892ac5688ddc7604a2ca24812628be7b956e67ddb9e5aca9e89c0dda632&=">
-    <h1 align="center">Melhores Tecnologias <3</h1>
+  
+   <h1 align="reigth">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Tecnologias;" />
+</h1>
   <img align="center" alt="Carlos-SQL" height="30" width="40"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
   <img align="center" alt="Carlos-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Carlos-Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
